@@ -1,6 +1,6 @@
 # 🌈 Holo effects with Flutter
 
-## Push ⭐️ if you like シ Thank you
+## Push ⭐️ if you like, Thank you シ
 
 ## 📸 Showcase
 Get the gyro motion with `motion_sensors` and convert it to a colour wheel.
