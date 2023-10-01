@@ -3,7 +3,7 @@
 ## Push ⭐️ if you like, Thank you シ
 
 ## 📸 Showcase
-Get the gyro motion with `motion_sensors` and convert it to a colour wheel.
+Get the gyro motion with `motion_sensors` and convert it to a color wheel.
 
 <img src="https://github.com/natsuk4ze/holo/raw/main/assets/example.gif" alt="ios" width="330"/>
 
