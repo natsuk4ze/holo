@@ -82,3 +82,5 @@ See:
 - [main.dart](https://github.com/natsuk4ze/holo/blob/main/lib/main.dart)
 - [Color wheel](https://en.wikipedia.org/wiki/Color_wheel)
 - [Gyro scope](https://developer.apple.com/documentation/coremotion/getting_raw_gyroscope_events)
+- [Swift](https://twitter.com/jmtrivedi/status/1513555700495966208)
+- [Mercard](https://engineering.mercari.com/blog/entry/20221208-mimicking-a-holographic-effect-for-mercard/)
