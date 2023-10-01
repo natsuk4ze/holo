@@ -82,6 +82,7 @@ extension AbsoluteOrientationEventX on AbsoluteOrientationEvent {
 
 See: 
 - [main.dart](https://github.com/natsuk4ze/holo/blob/main/lib/main.dart)
+- [post](https://twitter.com/natsuk4ze/status/1708379042536452248)
 - [Color wheel](https://en.wikipedia.org/wiki/Color_wheel)
 - [Gyro scope](https://developer.apple.com/documentation/coremotion/getting_raw_gyroscope_events)
 - [Swift](https://twitter.com/jmtrivedi/status/1513555700495966208)
