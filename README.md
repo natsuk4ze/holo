@@ -1,7 +1,7 @@
 # 🌈 Holo effects with Flutter
 
 ## 📸 Showcase
-Get the gyro motion with `motion_sensors` and convert it to a hue ring.
+Get the gyro motion with `motion_sensors` and convert it to a colour wheel.
 
 <img src="https://github.com/natsuk4ze/holo/raw/main/assets/example.gif" alt="ios" width="330"/>
 
@@ -77,4 +77,8 @@ extension AbsoluteOrientationEventX on AbsoluteOrientationEvent {
 }
 
 ```
-See: [main.dart](https://github.com/natsuk4ze/holo/blob/main/lib/main.dart)
+
+See: 
+- [main.dart](https://github.com/natsuk4ze/holo/blob/main/lib/main.dart)
+- [Color wheel](https://en.wikipedia.org/wiki/Color_wheel)
+- [Gyro scope](https://developer.apple.com/documentation/coremotion/getting_raw_gyroscope_events)
