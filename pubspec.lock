@@ -105,7 +105,7 @@ packages:
       path: "."
       ref: HEAD
       resolved-ref: "64230e30a5022acb1c7e3a20ee51a9da588c7b9f"
-      url: "https://github.com/zesage/motion_sensors"
+      url: "https://github.com/natsuk4ze/motion_sensors"
     source: git
     version: "0.1.0"
   path:
