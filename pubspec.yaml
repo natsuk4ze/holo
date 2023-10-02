@@ -10,7 +10,7 @@ dependencies:
   flutter:
     sdk: flutter
   motion_sensors:
-    git: https://github.com/natsuk4ze/motion_sensors
+    git: https://github.com/zesage/motion_sensors
 
 dev_dependencies:
   flutter_test:
