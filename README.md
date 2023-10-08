@@ -80,6 +80,7 @@ extension AbsoluteOrientationEventX on AbsoluteOrientationEvent {
 
 ```
 *You can also do this on Android, but the kotlin version of `motion_sensors` is out of date and needs to be updated manually.
+And please let me know if there is a package that can replace `motion_sensors`!
 
 See: 
 - [main.dart](https://github.com/natsuk4ze/holo/blob/main/lib/main.dart)
